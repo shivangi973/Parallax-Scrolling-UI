@@ -1,4 +1,4 @@
-# 🌄 Parallax Scrolling Website
+# 🌄  Parallax Scrolling Website
 
 A modern and visually immersive Parallax Scrolling Website built using HTML5 and CSS3, where elements move at different speeds to create a stunning depth illusion.
 
